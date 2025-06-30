@@ -65,9 +65,9 @@ Treating the cosine distance matrix as a weighted graph enabled the discovery of
 While cosine-based clustering provided high-resolution groupings of similar vocabulary, the graph-based approach offered a more expansive semantic perspective. The divergence in clustering outcomes emphasized how the choice of distance metric significantly influences linguistic interpretations in literary corpora.
 
 ## How to Cite
-```
-If you use this work in your research, please cite:
 
+If you use this work in your research, please cite:
+```
 @software{sharan2025semanticclustering,
   author = {Sharan, Tanya},
   title = {Semantic Clustering of Literary Vocabulary Using Word2Vec and Graph-Based Distance Measures},
